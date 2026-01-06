@@ -1,8 +1,8 @@
-# Hello there!
-## Brandon here!
----
+<details open>
+<summary>Shopping list</summary>
 
-<details>
-<summary>Hello there<\summary>
-Testing
-<\details>
+* Vegetables
+* Fruits
+* Fish
+
+</details>
