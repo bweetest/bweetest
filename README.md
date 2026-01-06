@@ -1,9 +1,7 @@
 ## ✨ Hello there, Brandon here! ✨
-
----
+Welcome to my GitHub! 🎉
 
 ## About Me!
-- Welcome to my GitHub! 
 - 
 - <details>
     <summary>ASD</summary>
