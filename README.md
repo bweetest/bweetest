@@ -1,25 +1,16 @@
-## ✨ Hello there, Brandon here! ✨
-Welcome to my GitHub! 🎉
-
-## About Me!
-- 
-- <details>
-    <summary>ASD</summary>
-    Testing
-    </details>
-
-## Experience
-- 🚀 Machine Learning Scientist @ MoneyLion (Jan 2026 to Present)
-- 💼 Ex-AI & Data Consultant @ Ernst & Young (Dec 2024 to Feb 2025)
 
 ## Frameworks and Technologies
-<div>
-heh
+<div style="background-color: white; padding: 10px; border-radius: 10px; display: inline-block;">
+<img src="https://www.svgrepo.com/show/354238/python.svg" height="50px" />
+<img src="https://www.svgrepo.com/show/452045/js.svg" height="50px" />
+<img src="https://www.svgrepo.com/show/452234/java.svg" height="50px" />
+<img src="https://www.svgrepo.com/show/353397/android-icon.svg" height="50px" />
+<img src="https://www.svgrepo.com/show/255832/sql.svg" height="50px" />
+<img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="50px" />
+<img src="https://www.svgrepo.com/show/353951/kafka-icon.svg" height="50px" />
+<img src="https://www.svgrepo.com/show/372952/spark.svg" height="50px" />
+<img src="https://www.svgrepo.com/show/354240/pytorch.svg" height="50px" />
+<img src="https://www.svgrepo.com/show/473805/tensorflow.svg" height="50px" />
+<img src="https://www.svgrepo.com/show/354139/opencv.svg" height="50px style="background-color: white; padding: 5px; border-radius: 5px;" />
+
 </div>
-
-##
-
-## Contacts
-- Email: bwee0920@gmail.com
-- Discord: bwee0920
-- CodeForces: brandon._.wee
